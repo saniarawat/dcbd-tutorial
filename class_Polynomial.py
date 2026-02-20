@@ -131,3 +131,6 @@ class Polynomial:
             return NotImplemented  
         # check if self is not less than other
         return not (self < other)
+
+
+print("Hello World")

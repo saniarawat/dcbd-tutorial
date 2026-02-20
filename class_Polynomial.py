@@ -1,3 +1,5 @@
+## sania's code
+
 class Polynomial:
     def __init__(self, terms=None):
         #Set a Polynomial object from a list of tuples that act as coefficients and exponents.
